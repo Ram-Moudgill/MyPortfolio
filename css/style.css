@@ -21,6 +21,10 @@ html
 {
     color:#4f96f2;
 }
+.mycont
+{
+    overflow: hidden;
+}
 .overlay
 {
     position: absolute;
