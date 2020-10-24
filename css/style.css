@@ -332,3 +332,13 @@ label
     align-items: center;
     justify-content: center;
 }
+.img__cont
+{
+    overflow: hidden !important;
+}
+.img-fluid:hover
+{
+    transform: scale(1.6);
+    overflow:  hidden !important;
+    transition: all 2s linear;
+}
