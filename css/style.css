@@ -346,3 +346,7 @@ label
     overflow:  hidden !important;
     transition: all 2s linear;
 }
+select option
+{
+    color: #000;
+}
